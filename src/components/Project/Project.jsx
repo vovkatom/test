@@ -91,6 +91,7 @@ componentDidUpdate(_prevProps, prevState) {
       <AppDiv>
         <ToastContainer transition={Flip}/>
         <Searchbar onSubmit={this.handleSearchSubmit} />
+        <Searchbar onSubmit={this.handleSearchSubmit} />
 
         {error && <p>Error: {error}</p>}
 

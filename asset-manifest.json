@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vovkatom/test/static/css/main.65125111.css",
-    "main.js": "/vovkatom/test/static/js/main.d1c80de5.js",
+    "main.js": "/vovkatom/test/static/js/main.9a335fae.js",
     "index.html": "/vovkatom/test/index.html",
     "static/media/search.svg": "/vovkatom/test/static/media/search.83bf22fea51e5d789840c7ebeff532fe.svg",
     "main.65125111.css.map": "/vovkatom/test/static/css/main.65125111.css.map",
-    "main.d1c80de5.js.map": "/vovkatom/test/static/js/main.d1c80de5.js.map"
+    "main.9a335fae.js.map": "/vovkatom/test/static/js/main.9a335fae.js.map"
   },
   "entrypoints": [
     "static/css/main.65125111.css",
-    "static/js/main.d1c80de5.js"
+    "static/js/main.9a335fae.js"
   ]
 }

@@ -9,7 +9,7 @@ import { AppDiv } from './Project.syled';
 import { ToastContainer, toast, Flip } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-class App extends Component {
+class edrtdrte extends Component {
   state = {
     images: [],
     isLoading: false,
@@ -31,7 +31,7 @@ componentDidUpdate(_prevProps, prevState) {
 
   fetchImages = () => {
     const { query, page } = this.state;
-    const API_KEY = '34187261-edb3bdfe414ee3b7adebeccc5';
+    const API_KEY = '**************************************************';
 
     this.setState({ isLoading: true });
 
@@ -112,4 +112,4 @@ componentDidUpdate(_prevProps, prevState) {
   }
 }
 
-export default App;
+export default edrtdrte;

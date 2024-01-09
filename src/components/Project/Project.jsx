@@ -31,7 +31,7 @@ componentDidUpdate(_prevProps, prevState) {
 
   fetchImages = () => {
     const { query, page } = this.state;
-    const API_KEY = '**************************************************';
+    const API_KEY = '39707606-5fb6421a06b3163f9e5a63b29';
 
     this.setState({ isLoading: true });
 
